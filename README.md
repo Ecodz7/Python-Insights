@@ -3,7 +3,7 @@ Utilização de Python para Análise e Tratamento de uma Base de Dados. Além de
 ______________________________________________________________________________________________________________________________________________________________________
 Using Python for Analysis and Treatment of a Database. In addition to generating graphics and performing troubleshooting for real problems in the corporate environment.
 
-# Funcionalidades e proeficiências | Features and proficiencies
+# Funcionalidades e proficiências | Features and proficiencies
 - Análise e Tratamento de Dados
 - Tabelas (DataFrames)
 - Gráficos em Python
